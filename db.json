@@ -5,21 +5,21 @@
       "name": "Cotton T-Shirt",
       "price": 24.99,
       "category_id": 1,
-      "image": "https://example.com/images/cotton_tshirt.jpg"
+      "image": "https://image.uniqlo.com/UQ/ST3/in/imagesgoods/452213/item/ingoods_22_452213.jpg?width=750"
     },
     {
       "id": 2,
       "name": "Slim Fit Jeans",
       "price": 49.99,
       "category_id": 2,
-      "image": "https://example.com/images/slim_fit_jeans.jpg"
+      "image": "https://www.rareism.com/cdn/shop/products/IMG_0002_12411170-8f25-4962-98b9-932d63b0c23f_765x.jpg?v=1664180405"
     },
     {
       "id": 3,
       "name": "Floral Sundress",
       "price": 59.99,
       "category_id": 3,
-      "image": "https://example.com/images/floral_sundress.jpg"
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/a/tr:w-480,/1ad5313NF-CD20221120210271MD-White_1.jpg?rnd=20200526195200"
     },
     {
       "id": 4,
@@ -40,21 +40,21 @@
       "name": "Formal Blouse",
       "price": 34.99,
       "category_id": 1,
-      "image": "https://example.com/images/formal_blouse.jpg"
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRJnK8wuUXdyYpCm8wARdvngqZdXvn8K13SthPcEH90IdwLY595Qz_RdWGowVsNooD5t0crx6z02xWN7Fhel91V3shZ6MzVxg&usqp=CAE"
     },
     {
       "id": 7,
       "name": "Denim Shorts",
       "price": 29.99,
       "category_id": 2,
-      "image": "https://example.com/images/denim_shorts.jpg"
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ-hdULFUbKyjJ7gxr_hhk3N7TTotJZm_ZSMz-T3y1WhDQhZaf_yPCNXK44nC2ZDXLFOq6iIG92sU_TiZ0vTxRRCWX37FU7uhAZFmjgCyim&usqp=CAE"
     },
     {
       "id": 8,
       "name": "Casual Sneakers",
       "price": 44.99,
       "category_id": 4,
-      "image": "https://example.com/images/casual_sneakers.jpg"
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT_t4_8kYOBz6JCK7voFm1h7IbT5jqio7kqBZBK7zy6iB-PZkjw-t3S29HM3GP5GnhYL0zVeyjEkwE41vCiqMYYRzFMXmY_-OuPAh8iEyBlEVzkP_63m3tT&usqp=CAE"
     }
     
   ]
