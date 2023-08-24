@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cotton T-Shirt",
+      "price": 24.99,
+      "category_id": 1,
+      "image": "https://example.com/images/cotton_tshirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Slim Fit Jeans",
+      "price": 49.99,
+      "category_id": 2,
+      "image": "https://example.com/images/slim_fit_jeans.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Floral Sundress",
+      "price": 59.99,
+      "category_id": 3,
+      "image": "https://example.com/images/floral_sundress.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leather Belt",
+      "price": 19.99,
+      "category_id": 4,
+      "image": "https://example.com/images/leather_belt.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Sneakers",
+      "price": 39.99,
+      "category_id": 4,
+      "image": "https://example.com/images/sneakers.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Formal Blouse",
+      "price": 34.99,
+      "category_id": 1,
+      "image": "https://example.com/images/formal_blouse.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Denim Shorts",
+      "price": 29.99,
+      "category_id": 2,
+      "image": "https://example.com/images/denim_shorts.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Casual Sneakers",
+      "price": 44.99,
+      "category_id": 4,
+      "image": "https://example.com/images/casual_sneakers.jpg"
+    }
+    
+  ]
+}
